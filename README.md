@@ -15,7 +15,8 @@ This project analyzes employee attrition trends using Power BI.
 - Gender-wise Attrition Analysis
 
 ## Dashboard Preview
-<img width="1442" height="805" alt="image" src="https://github.com/user-attachments/assets/b293329a-359c-4164-90ed-4ddcd4ac7b6f" />
+<img width="1442" height="805" alt="HR-DA-Screenshot 2026-06-18 224918" src="https://github.com/user-attachments/assets/800bf159-5773-4992-80ec-9c9859d4bc99" />
+
 
 ## Author
 Enakshi Sinha
